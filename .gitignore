@@ -1,0 +1,8 @@
+tweets/
+users/
+completed/
+tests/
+env/
+*.xlsx
+*.png
+*.pdf
